@@ -1,6 +1,6 @@
 
 
-### **Multiple Returns **
+**Multiple Returns **
 
 The return() function can return only a single object. If we want to return multiple values in R, we can use a list (or other objects) and return it.
 
