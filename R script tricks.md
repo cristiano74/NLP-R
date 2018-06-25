@@ -12,3 +12,12 @@ my_list <- list("color" = "red", "size" = 20, "shape" = "round")
 return(my_list)
 }
 ```
+
+
+**Cat**
+
+print label and data:
+
+```R
+cat("Valore mediano con il nuovo testo:\n",median(sim_new_text_result[sim_new_text_result < 0.99]),sep="\t")
+```
