@@ -21,3 +21,10 @@ print label and data:
 ```R
 cat("Valore mediano con il nuovo testo:\n",median(sim_new_text_result[sim_new_text_result < 0.99]),sep="\t")
 ```
+
+
+https://www.datacamp.com/community/tutorials/ML-NLP-lyric-analysis
+
+
+
+[This is a task 2](#todo:10)
