@@ -18,6 +18,7 @@
       "IDEA",
       "NOTE",
       "REVIEW",
+      "MARK",
       "TO_DO"
     ]
   },
@@ -38,5 +39,10 @@
     "pedantic": false,
     "smartLists": true,
     "langPrefix": "language-"
+  },
+  "sync": {
+    "id": "5b31ecf3169f8f7c6702cbe2",
+    "name": "cristiano74/NLP-R",
+    "useImdoneioForPriority": true
   }
 }
